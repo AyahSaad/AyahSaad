@@ -10,7 +10,6 @@
 - 👩‍💻 I’m currently improving my skills in **Web Development** & **Software Engineering**  
 - 📫 How to reach me: **ayah3bed22@gmail.com**
 
----
 
 ## Connect with me:
 
@@ -20,7 +19,6 @@
   <a href="https://github.com/AyahSaad" target="_blank"><img src="https://img.icons8.com/glyph-neue/48/github.png"/></a>
 </p>
 
----
 
 ## Languages and Tools:
 
