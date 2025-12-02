@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayah Saad</h1>
 <p align="center">Software Engineer | Web Developer</p>
 
----
-
 <p align="center">
   <img src="https://camo.githubusercontent.com/f1cd8db6c32f03be735c1334e771e9334b768103b94d1ff361177c4d34cf492b/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966">
 </p>
